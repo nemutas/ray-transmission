@@ -1,7 +1,9 @@
 # About
-This prototype uses threejs to synchronize Camera and Mesh positions with Raymarching drawings.<br />
-However, only the position of the mesh could not be perfectly synchronized. It shifted slightly.🤔
+https://nemutas.github.io/ray-transmission/
 
-https://nemutas.github.io/three-raymarching/
+<img src='https://github.com/nemutas/ray-transmission/assets/46724121/698e4c6d-fe72-458e-a1c4-402a2143e9f6' width='700' />
 
-<img src='https://github.com/nemutas/three-raymarching/assets/46724121/ced1701e-4c39-43f9-bbc4-bf619651af91' width='700' />
+
+# Reference
+- [Live Coding:Bending Light](https://youtu.be/NCpaaLkmXI8?si=HVd3LZQyFankb_a1)
+- [Live Coding:Bending Light - Part 2](https://youtu.be/0RWaR7zApEo?si=bad-YhmqAYhbvUfv)
